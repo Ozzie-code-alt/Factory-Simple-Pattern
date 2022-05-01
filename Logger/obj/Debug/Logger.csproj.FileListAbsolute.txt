@@ -1,0 +1,6 @@
+C:\Users\justi\Desktop\Fckn Shit\CSDC22_ExceptionLogging\Logger\bin\Debug\Logger.dll
+C:\Users\justi\Desktop\Fckn Shit\CSDC22_ExceptionLogging\Logger\bin\Debug\Logger.pdb
+C:\Users\justi\Desktop\Fckn Shit\CSDC22_ExceptionLogging\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Fckn Shit\CSDC22_ExceptionLogging\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Fckn Shit\CSDC22_ExceptionLogging\Logger\obj\Debug\Logger.dll
+C:\Users\justi\Desktop\Fckn Shit\CSDC22_ExceptionLogging\Logger\obj\Debug\Logger.pdb
